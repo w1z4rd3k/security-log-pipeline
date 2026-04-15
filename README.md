@@ -44,7 +44,7 @@ The pipeline follows the Medallion Architecture (Bronze, Silver, Gold layers).
 
 ---
 
-## 📊 Example Outputs
+## Example Outputs
 
 - Most frequent error types
 - Top active IP addresses
