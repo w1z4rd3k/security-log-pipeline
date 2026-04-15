@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/raw/*
+data/processed/*
+
+# Env
+.env
+
+# Notebook temp
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
