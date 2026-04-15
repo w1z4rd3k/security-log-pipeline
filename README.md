@@ -50,11 +50,14 @@ The pipeline follows the Medallion Architecture (Bronze, Silver, Gold layers).
 - Top active IP addresses
 - Log activity over time
 
+<<<<<<< HEAD
 ## Example Visualizations
 
 ### Top IP Addresses
 ![Top IPs](docs/top_ips.png)
 
+=======
+>>>>>>> bf8c4e9efd5697e93acdbc8b6aec7a2cbfc53a92
 ---
 
 ## Business Value
